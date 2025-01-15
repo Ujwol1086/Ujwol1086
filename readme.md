@@ -1,53 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ujwol Aryal</h1>
+<h1 align="center">Hi 👋, I'm Ujwol Aryal.</h1>
 
 ---
 
 ## About Me
+
 Innovative, passionate, and detail-oriented professional with a solid foundation in Information Technology. Experienced in aligning technology solutions with business objectives.
 
 ---
 
 ## Tech Stack
-- **Front-end:** HTML, CSS, JavaScript, React  
-- **Back-end:** PHP, Node.js  
-- **Database:** SQL, MongoDB  
+
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** PHP, Node.js
+- **Database:** SQL, MongoDB
 
 ---
 
 ## Skills
-- Proficiency in technical areas such as hardware, software, networking, cybersecurity, and database management.  
-- Quick diagnosis and resolution of technical issues.  
-- Adaptability to new technologies and processes.  
-- Strong analytical thinking and attention to detail.  
-- Staying up-to-date with the latest IT developments.  
-- Commitment to continuous learning and professional growth.  
-- Excellent communication, interpersonal, and leadership skills.  
-- Basic web development and proficiency in C/C++ coding.  
+
+- Proficiency in technical areas such as hardware, software, networking, cybersecurity, and database management.
+- Quick diagnosis and resolution of technical issues.
+- Adaptability to new technologies and processes.
+- Strong analytical thinking and attention to detail.
+- Staying up-to-date with the latest IT developments.
+- Commitment to continuous learning and professional growth.
+- Excellent communication, interpersonal, and leadership skills.
+- Basic web development and proficiency in C/C++ coding.
 
 ---
 
 ## Academic Background
-- **BSc. CSIT:** Prime College, Nayabazar, KTM (6th Semester Ongoing)  
-- **10+2 (Science):** NIST, Lainchaur, KTM (GPA: 3.32)  
-- **SEE:** Malpi International School, Kavre (GPA: 3.55)  
+
+- **BSc. CSIT:** Prime College, Nayabazar, KTM (6th Semester Ongoing)
+- **10+2 (Science):** NIST, Lainchaur, KTM (GPA: 3.32)
+- **SEE:** Malpi International School, Kavre (GPA: 3.55)
 
 ---
 
 ## Certifications & Workshops
-- MERN Stack  
-- Python Intermediate  
-- PHP Beginner  
-- Adobe Premiere Pro & After Effects  
-- Portfolio Management System using C++  
-- Figma  
+
+- MERN Stack
+- Python Intermediate
+- PHP Beginner
+- Adobe Premiere Pro & After Effects
+- Portfolio Management System using C++
+- Figma
 
 ---
 
 ## Projects
-- **E-commerce Platform:** Built using the MERN stack.  
-- **To-Do List Application:** Developed with React.  
-- **Food Delivery WebApp:** Created with the MERN stack.  
-- **CV Maker:** Built with PHP.  
+
+- **E-commerce Platform:** Built using the MERN stack.
+- **To-Do List Application:** Built in React.
+- **Food Delivery WebApp:** Created with the MERN stack.
+- **CV Maker:** Built in PHP.
+- **Interactive Form Builder:** Built in React.
 
 ---
 
@@ -86,7 +93,6 @@ Innovative, passionate, and detail-oriented professional with a solid foundation
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwol1086&label=Profile%20views&color=0e75b6&style=flat" alt="ujwol1086" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujwol1086" alt="ujwol1086" /></a> </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujwol1086&show_icons=true&locale=en&layout=compact" alt="ujwol1086" /></p>
 
