@@ -2,9 +2,10 @@
   <img src="header.png" alt="Ujwol Aryal Banner" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
-</h3>
+<div align="center" style="display: inline-flex; align-items: center; gap: 10px;">
+  <img src="Ujwol_logo.png" alt="Ujwol Aryal" width="40" height="40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -49,10 +50,10 @@
 
 ## 🚀 Projects
 
-- 🛒 **E-commerce Platform** — MERN Stack  
-- 📝 **To-Do List App** — React  
-- 🍔 **Food Delivery WebApp** — MERN Stack  
-- 📄 **CV Maker** — PHP  
+- 🛒 **E-commerce Platform** — MERN Stack
+- 📝 **To-Do List App** — React
+- 🍔 **Food Delivery WebApp** — MERN Stack
+- 📄 **CV Maker** — PHP
 - 🧩 **Interactive Form Builder** — React
 
 ---
