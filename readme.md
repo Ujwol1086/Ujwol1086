@@ -19,7 +19,7 @@
 🔧 Always eager to learn, build, and solve meaningful problems with code.
 
 <p align="center">
-  <img src="banner.png" alt="Ujwol Aryal Banner" />
+  <img src="banner.gif" alt="Ujwol Aryal Banner" />
 </p>
 
 ---
