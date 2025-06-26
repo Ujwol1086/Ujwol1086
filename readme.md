@@ -2,10 +2,13 @@
   <img src="header.png" alt="Ujwol Aryal Banner" />
 </p>
 
-<div align="center" style="display: flex; align-items: center; gap: 10px;">
-  <img src="Ujwol_logo.png" alt="Ujwol Aryal" width="30" height="30" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="Ujwol_logo.png" alt="Ujwol Aryal" width="60" height="60" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
 
