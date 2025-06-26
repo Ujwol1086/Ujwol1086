@@ -18,6 +18,10 @@
 🚀 Experienced in aligning modern tech solutions with real-world business needs.  
 🔧 Always eager to learn, build, and solve meaningful problems with code.
 
+<p align="center">
+  <img src="banner.png" alt="Ujwol Aryal Banner" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
