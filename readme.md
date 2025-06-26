@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujwol Aryal</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;r" alt="Typing SVG" />
 </h3>
 
 ---
