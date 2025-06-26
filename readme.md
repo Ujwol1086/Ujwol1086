@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujwol Aryal</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;r" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </h3>
 
 ---
@@ -55,12 +55,6 @@
 
 ---
 
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-UjwolAryal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ujwol-aryal)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,4 +81,26 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujwol1086&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ujwol-aryal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ujwol%20Aryal-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ujwol1086" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ujwol1086-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:ujwolaryal1086@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ujwolaryal1086@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/ujwol.aryal" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ujju_1086" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
