@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujwol Aryal</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </h3>
 
 ---
@@ -74,6 +74,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwol1086&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=ujwol1086&theme=tokyonight" alt="Ujwol's Contribution Graph" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujwol1086&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
