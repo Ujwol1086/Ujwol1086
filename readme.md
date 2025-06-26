@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujwol Aryal</h1>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </h3>
@@ -15,77 +16,48 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)  
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-- 🛒 **E-commerce Platform** — MERN Stack
-- 📝 **To-Do List App** — React
-- 🍔 **Food Delivery WebApp** — MERN Stack
-- 📄 **CV Maker** — PHP
+- 🛒 **E-commerce Platform** — MERN Stack  
+- 📝 **To-Do List App** — React  
+- 🍔 **Food Delivery WebApp** — MERN Stack  
+- 📄 **CV Maker** — PHP  
 - 🧩 **Interactive Form Builder** — React
-
----
-
-## 📚 Education
-
-- 🎓 **BSc. CSIT** — *Prime College, Nayabazar (6th Semester Ongoing)*
-- 🧪 **+2 Science** — *NIST, Lainchaur (GPA: 3.32)*
-- 🏫 **SEE** — *Malpi International School (GPA: 3.55)*
-
----
-
-## 🏆 Certifications
-
-- MERN Stack  
-- Intermediate Python  
-- Beginner PHP  
-- Adobe Premiere Pro & After Effects  
-- Portfolio Management System (C++)  
-- Figma Design Basics
-
----
-
-## 🔧 Skills
-
-- Hardware & Networking
-- Cybersecurity Fundamentals
-- Analytical & Critical Thinking
-- Software Troubleshooting
-- Database Management
-- Communication & Teamwork
-- Continuous Learning Mindset
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-UjwolAryal-blue?logo=linkedin)](https://linkedin.com/in/ujwol-aryal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-UjwolAryal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ujwol-aryal)
 
 ---
 
