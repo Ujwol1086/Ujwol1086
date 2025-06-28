@@ -83,14 +83,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=ujwol1086&theme=tokyonight" alt="Ujwol's Contribution Graph" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujwol1086&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
